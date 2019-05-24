@@ -8,6 +8,7 @@
 
 
 1. Selenium을 이용한 YOGIYO Web Crawling.md	
+  [https://github.com/KimRanA/FiveSisters/blob/master/1.%20Selenium%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20YOGIYO%20%20Web%20Crawling.md]
 2. Crawling결과 데이터 전처리.md	
 3. OCR api 이용해서 이미지에서 텍스트 추출.md	
 4. 2에서 만든 데이터에서 Review의 텍스트를 NLU API 돌려서 수치화 하기.md	
